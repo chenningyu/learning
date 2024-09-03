@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 import glob
 
+
 # 设置棋盘格尺寸和方块大小
 chessboard_size = (10, 7)
 square_size = 25  # mm
